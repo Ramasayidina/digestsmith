@@ -1,0 +1,7 @@
+.venv/
+.openminion-home/
+.openminion-home-pollinations/
+.omhome/
+tools/
+__pycache__/
+output/runlog.jsonl

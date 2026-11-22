@@ -1,0 +1,6 @@
+[18:06:19] Starting digest run for topic: 'decentralized inference'
+[18:25:40] Researcher done. Facts collected: {'arXiv': 5, 'Hacker News': 6}; filled in by code: none
+[18:26:45] Editor done: 6 items, headline: 'Decentralized Inference Advances and Platforms'
+[18:28:50] Approval for save_digest: APPROVED (--yes flag)
+[18:30:31] Publisher done via: publisher-agent. Saved: ['/home/hatch/workspace/dorahacks/cortensor/output/decentralized-inference-20261121.md', '/home/hatch/workspace/dorahacks/cortensor/output/decentralized-inference-20261121.sources.json']
+[18:30:31] Run complete in 1445.0s. Run log appended to output/runlog.jsonl

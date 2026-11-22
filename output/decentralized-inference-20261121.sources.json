@@ -1,0 +1,110 @@
+{
+  "arXiv": [
+    {
+      "source": "arXiv",
+      "title": "An Alternative to Crawlers: Scalable P2P Network Monitoring Using the Network Scale-Up Method",
+      "url": "https://arxiv.org/abs/2611.21330v1",
+      "date": "2026-11-16",
+      "points": 0,
+      "comments": 0,
+      "snippet": "\\Ac{p2p} networks have remained an active area of research and development for decades. Originally used for data dissemination, they have later become instrumental to decentralized payment systems, blockchains, and Web3 applications. Since decentralization is a crucial property of these networks, they are continuously monitored to track attributes such as the geographical distribution of nodes, wh",
+      "authors": "Juan Marcos Ramirez, Sergio Díaz-Aranda, Leonhard Balduf"
+    },
+    {
+      "source": "arXiv",
+      "title": "When Cooperation Must Change: Semantic Strategy Unlearning in Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.17917v1",
+      "date": "2026-11-13",
+      "points": 0,
+      "comments": 0,
+      "snippet": "Cooperative multi-agent reinforcement learning (MARL) supports coordinated decision-making in distributed Web services, multi-robot control, and collaborative games through learned coordination conventions. When deployment requirements change, a previously useful convention may become obsolete or unsafe. For example, revised cache-sharing permissions in Web content delivery may require caches to a",
+      "authors": "Wenhan Wu, Linghan Chen, Yudong Gao"
+    },
+    {
+      "source": "arXiv",
+      "title": "Terrain-Aware Thompson Sampling for Multi-Drone Search and Rescue",
+      "url": "https://arxiv.org/abs/2611.14685v1",
+      "date": "2026-11-10",
+      "points": 0,
+      "comments": 0,
+      "snippet": "In this work, we propose a decentralized terrain-aware multi-drone Thompson Sampling algorithm tailored for search and rescue (SAR) applications. A probability distribution of locating a lost person is informed by terrain data, using established SAR models (displacement ring, elevation, watershed, dispersion angle, and track offset) derived from historical SAR case data on lost person behavior. Ex",
+      "authors": "Riana Gagnon Souleiman, Giovanni Beltrame"
+    },
+    {
+      "source": "arXiv",
+      "title": "DOBB: Dynamic Oriented Bounding Boxes for Multi-Agent Collision Avoidance under State Uncertainty and Heterogeneous Dynamics",
+      "url": "https://arxiv.org/abs/2611.13142v1",
+      "date": "2026-11-09",
+      "points": 0,
+      "comments": 0,
+      "snippet": "Learning-based decentralized collision avoidance must remain reliable under state-estimation uncertainty and heterogeneous agent dynamics. Existing methods typically address these factors through training-domain variation or by exposing uncertainty and capability estimates to the policy at runtime. However, both leave the policy to infer how these quantities should alter the physical separation re",
+      "authors": "Pedro Antonio Alarcon Granadeno, Jane Cleland-Huang"
+    },
+    {
+      "source": "arXiv",
+      "title": "GTAFL: Addressing Test-Agnostic Long-Tailed Federated Learning in Medical Image",
+      "url": "https://arxiv.org/abs/2611.08021v1",
+      "date": "2026-11-05",
+      "points": 0,
+      "comments": 0,
+      "snippet": "In healthcare, protecting patient privacy is crucial due to the sensitivity of medical data and its extensive accessibility. Federated Learning (FL) offers a decentralized and privacy-preserving training paradigm, making it an ideal solution for healthcare applications. A critical challenge in healthcare is that real-world medical data often exhibits long-tailed distributions in local and global v",
+      "authors": "Guangyu Chen, Jingyun Zeng, Hui Jiang"
+    }
+  ],
+  "Hacker News": [
+    {
+      "source": "Hacker News",
+      "title": "Peer-to-Peer Decentralized Inference",
+      "url": "https://www.primeintellect.ai/blog/inference",
+      "date": "2025-04-29",
+      "points": 4,
+      "comments": 1,
+      "snippet": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Architect of Project Ario Decentralized AI inference amp systemic transparency",
+      "url": "https://zenodo.org/records/23132717",
+      "date": "2026-10-16",
+      "points": 3,
+      "comments": 0,
+      "snippet": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitSwarm: Decentralized Compounding Inference",
+      "url": "https://veds12.github.io/git-swarm/",
+      "date": "2026-10-10",
+      "points": 2,
+      "comments": 0,
+      "snippet": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "MyAi – Decentralized inference with on-chain payouts (Base)",
+      "url": "https://myaitoken.io",
+      "date": "2026-05-15",
+      "points": 2,
+      "comments": 0,
+      "snippet": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Arknet – decentralized AI inference, fair launch, one binary",
+      "url": "https://github.com/st-hannibal/arknet",
+      "date": "2026-05-03",
+      "points": 2,
+      "comments": 0,
+      "snippet": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Decentralized AI Inference Marketplace",
+      "url": "https://t4t.eth.link",
+      "date": "2026-06-09",
+      "points": 1,
+      "comments": 1,
+      "snippet": ""
+    }
+  ]
+}
